@@ -6,7 +6,7 @@ This Python script converts images into ASCII art. By analyzing the pixel values
 ## FIRST
 
 Please edit `YOURUSERNAME` by your windows username
-Please edit `YOURIMAGE.PNG` by the name of your image
+and edit `YOURIMAGE.PNG` by the name of your image
 
 ## SECOND 
 
