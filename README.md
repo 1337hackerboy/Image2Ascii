@@ -3,15 +3,15 @@ This Python script converts images into ASCII art. By analyzing the pixel values
 
 # IMPORTANT 📕
 
-# FIRST
+## FIRST
 
 Please edit `YOURUSERNAME` by your windows username
 Please edit `YOURIMAGE.PNG` by the name of your image
 
-# SECOND 
+## SECOND 
 
 Please create a folder, the folder must be named "image", you need to put your image inside.
 
-# THIRD
+## THIRD
 
 for each ascii that you generate, please before running the program edit "ascii art2" by increasing it by one digit
